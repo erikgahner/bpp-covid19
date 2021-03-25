@@ -1,0 +1,1002 @@
+treat_handwash,treat_closecontact,outcome_handwash,outcome_closecontact,outcome_handwash_10,outcome_closecontact_10,male,age,parti,gov
+1,1,29,6,1,0,0,47,Liberal Alliance,0
+1,0,20,8,1,0,0,44,Socialdemokratiet,1
+0,0,15,5,1,0,1,64,Konservative,0
+1,0,5,0,0,0,1,59,SF,1
+0,1,30,5,1,0,1,46,Socialdemokratiet,1
+1,1,10,2,1,0,1,67,SF,1
+1,0,18,1,1,0,0,62,Venstre,0
+1,1,10,5,1,0,1,52,NA,NA
+1,1,20,1,1,0,0,70,NA,NA
+0,1,10,12,1,1,0,45,Socialdemokratiet,1
+0,1,15,3,1,0,0,53,Venstre,0
+0,0,15,1,1,0,1,50,Radikale,1
+0,0,8,1,0,0,0,45,NA,NA
+0,1,12,0,1,0,1,74,Enhedslisten,1
+1,0,25,3,1,0,1,55,SF,1
+1,1,15,2,1,0,0,72,Socialdemokratiet,1
+0,1,6,3,0,0,1,75,Socialdemokratiet,1
+1,0,10,5,1,0,1,56,Radikale,1
+0,0,5,8,0,0,1,41,SF,1
+1,0,20,0,1,0,1,72,Socialdemokratiet,1
+0,0,16,3,1,0,1,76,Enhedslisten,1
+1,0,25,1,1,0,1,74,Konservative,0
+1,0,15,1,1,0,0,75,Konservative,0
+1,1,20,6,1,0,1,57,Alternativet,1
+1,1,6,8,0,0,0,55,Dansk Folkeparti,0
+0,1,8,5,0,0,1,55,Dansk Folkeparti,0
+0,0,12,15,1,1,0,69,Radikale,1
+1,1,5,12,0,1,1,57,Nye Borgerlige,0
+0,1,10,2,1,0,0,72,Socialdemokratiet,1
+1,1,10,1,1,0,0,28,Socialdemokratiet,1
+1,1,10,1,1,0,1,78,Konservative,0
+0,0,9,1,0,0,1,24,Socialdemokratiet,1
+1,1,25,12,1,1,0,26,Enhedslisten,1
+1,1,25,10,1,1,0,53,Socialdemokratiet,1
+1,0,20,3,1,0,1,33,SF,1
+0,0,7,5,0,0,1,51,Socialdemokratiet,1
+1,0,30,6,1,0,0,70,Nye Borgerlige,0
+1,1,4,2,0,0,1,42,Radikale,1
+1,0,28,8,1,0,0,21,Konservative,0
+0,1,6,3,0,0,1,67,Socialdemokratiet,1
+0,0,6,0,0,0,0,73,Socialdemokratiet,1
+0,1,7,12,0,1,1,46,Venstre,0
+1,0,6,5,0,0,1,24,NA,NA
+0,1,5,0,0,0,1,23,NA,NA
+1,0,10,1,1,0,0,31,Socialdemokratiet,1
+0,0,20,1,1,0,0,61,Enhedslisten,1
+0,0,12,3,1,0,0,66,Enhedslisten,1
+0,0,5,3,0,0,1,49,Socialdemokratiet,1
+0,1,15,8,1,0,0,48,NA,NA
+1,1,14,1,1,0,1,24,NA,NA
+1,1,38,16,1,1,1,39,Socialdemokratiet,1
+0,1,10,0,1,0,0,66,Socialdemokratiet,1
+1,1,6,5,0,0,0,49,Socialdemokratiet,1
+0,0,12,1,1,0,0,34,Dansk Folkeparti,0
+0,0,6,1,0,0,0,71,Socialdemokratiet,1
+0,0,20,1,1,0,1,21,Venstre,0
+1,0,20,13,1,1,1,82,Venstre,0
+0,1,15,9,1,0,1,49,Dansk Folkeparti,0
+0,1,8,27,0,1,1,24,NA,NA
+1,0,30,8,1,0,0,55,NA,NA
+0,1,10,2,1,0,1,79,Konservative,0
+1,1,15,3,1,0,1,75,Konservative,0
+0,1,8,4,0,0,0,82,SF,1
+1,0,25,3,1,0,0,69,Socialdemokratiet,1
+0,1,10,2,1,0,1,85,Venstre,0
+1,1,6,0,0,0,0,78,Nye Borgerlige,0
+0,1,10,1,1,0,0,24,Radikale,1
+1,0,10,3,1,0,1,35,Socialdemokratiet,1
+0,0,15,8,1,0,1,52,Nye Borgerlige,0
+1,1,8,3,0,0,1,70,Nye Borgerlige,0
+0,0,20,60,1,1,0,70,Socialdemokratiet,1
+0,0,8,0,0,0,1,68,Socialdemokratiet,1
+0,0,10,1,1,0,0,74,Venstre,0
+1,0,45,9,1,0,1,66,Socialdemokratiet,1
+0,1,2,6,0,0,1,58,Enhedslisten,1
+0,1,10,5,1,0,1,46,Nye Borgerlige,0
+1,1,15,8,1,0,0,48,Socialdemokratiet,1
+1,0,12,0,1,0,1,90,Konservative,0
+1,0,30,1,1,0,0,52,Nye Borgerlige,0
+1,0,17,8,1,0,0,48,Socialdemokratiet,1
+0,0,9,3,0,0,0,29,SF,1
+0,1,10,5,1,0,0,24,Radikale,1
+0,0,15,6,1,0,1,22,NA,NA
+1,1,10,5,1,0,0,54,Socialdemokratiet,1
+1,1,20,2,1,0,1,90,Venstre,0
+1,1,25,7,1,0,1,49,Konservative,0
+0,1,6,6,0,0,1,18,SF,1
+1,0,10,4,1,0,1,54,Socialdemokratiet,1
+1,0,10,1,1,0,0,55,NA,NA
+0,1,12,6,1,0,0,42,NA,NA
+1,1,15,0,1,0,1,29,Socialdemokratiet,1
+1,0,10,3,1,0,0,29,SF,1
+1,0,10,0,1,0,0,45,NA,NA
+1,1,11,4,1,0,0,45,Socialdemokratiet,1
+0,1,15,5,1,0,0,23,Socialdemokratiet,1
+0,0,10,3,1,0,1,68,NA,NA
+0,1,8,5,0,0,1,78,SF,1
+0,1,5,3,0,0,1,47,Konservative,0
+0,0,15,2,1,0,1,31,Socialdemokratiet,1
+0,1,8,0,0,0,1,49,Socialdemokratiet,1
+0,1,15,4,1,0,0,34,NA,NA
+1,0,4,8,0,0,1,64,NA,NA
+0,0,15,10,1,1,1,80,Konservative,0
+0,0,7,30,0,1,1,27,NA,NA
+1,1,20,20,1,1,0,18,Venstre,0
+0,1,10,20,1,1,0,22,NA,NA
+0,0,8,2,0,0,1,67,SF,1
+1,0,15,1,1,0,1,84,Socialdemokratiet,1
+1,0,10,5,1,0,1,55,Konservative,0
+0,0,20,1,1,0,0,49,Enhedslisten,1
+1,1,10,5,1,0,1,75,Socialdemokratiet,1
+1,0,15,3,1,0,1,85,NA,NA
+1,0,33,6,1,0,0,49,Socialdemokratiet,1
+0,1,10,3,1,0,0,23,Radikale,1
+1,0,15,3,1,0,0,21,Socialdemokratiet,1
+0,0,15,5,1,0,0,19,Enhedslisten,1
+1,1,20,5,1,0,1,72,SF,1
+1,0,28,4,1,0,1,48,Dansk Folkeparti,0
+1,1,25,10,1,1,1,59,Venstre,0
+0,0,5,2,0,0,0,79,NA,NA
+0,1,12,30,1,1,1,54,Socialdemokratiet,1
+0,1,15,4,1,0,0,46,Venstre,0
+1,1,20,10,1,1,0,66,Socialdemokratiet,1
+0,0,10,8,1,0,1,21,Venstre,0
+1,0,8,4,0,0,1,58,Socialdemokratiet,1
+1,0,25,5,1,0,0,24,Enhedslisten,1
+0,0,6,3,0,0,0,52,NA,NA
+1,0,15,12,1,1,0,45,Socialdemokratiet,1
+0,0,12,0,1,0,0,79,Socialdemokratiet,1
+0,1,7,3,0,0,1,69,Socialdemokratiet,1
+0,1,8,5,0,0,1,68,NA,NA
+0,0,15,8,1,0,1,23,Venstre,0
+0,1,10,1,1,0,0,24,Nye Borgerlige,0
+1,0,40,25,1,1,0,55,Venstre,0
+1,0,20,10,1,1,1,54,Konservative,0
+1,1,18,5,1,0,0,61,Venstre,0
+0,0,8,5,0,0,1,57,Enhedslisten,1
+1,1,11,2,1,0,1,42,NA,NA
+0,1,10,6,1,0,1,46,Alternativet,1
+0,1,15,3,1,0,1,52,Venstre,0
+0,0,2,0,0,0,0,47,Dansk Folkeparti,0
+1,1,15,4,1,0,0,69,Dansk Folkeparti,0
+0,0,3,1,0,0,1,24,Enhedslisten,1
+0,1,5,0,0,0,0,20,Enhedslisten,1
+1,0,20,4,1,0,1,45,Radikale,1
+1,1,12,15,1,1,0,58,Socialdemokratiet,1
+0,0,10,5,1,0,1,71,Dansk Folkeparti,0
+1,1,8,18,0,1,1,28,Nye Borgerlige,0
+1,0,15,0,1,0,1,62,Venstre,0
+0,1,10,1,1,0,0,75,Enhedslisten,1
+0,1,15,3,1,0,1,39,Enhedslisten,1
+0,1,10,0,1,0,0,60,Konservative,0
+0,1,2,3,0,0,1,39,Socialdemokratiet,1
+1,1,40,1,1,0,0,74,Socialdemokratiet,1
+1,1,10,2,1,0,1,35,SF,1
+1,1,25,16,1,1,1,49,Socialdemokratiet,1
+0,0,5,6,0,0,0,48,Nye Borgerlige,0
+1,0,30,10,1,1,1,68,NA,NA
+1,0,3,5,0,0,0,77,Konservative,0
+0,1,15,1,1,0,0,21,SF,1
+1,0,15,2,1,0,0,63,Socialdemokratiet,1
+0,0,4,2,0,0,1,22,Enhedslisten,1
+0,1,20,4,1,0,1,49,Nye Borgerlige,0
+1,0,20,3,1,0,1,19,Liberal Alliance,0
+1,1,24,5,1,0,1,23,Venstre,0
+1,0,15,10,1,1,1,45,Konservative,0
+1,1,10,3,1,0,0,73,Venstre,0
+1,1,15,1,1,0,1,21,Radikale,1
+1,1,30,15,1,1,0,60,Socialdemokratiet,1
+0,0,12,3,1,0,0,48,Enhedslisten,1
+1,1,15,20,1,1,0,72,Socialdemokratiet,1
+0,0,5,2,0,0,0,79,NA,NA
+1,0,15,15,1,1,0,31,Venstre,0
+1,0,5,1,0,0,0,39,NA,NA
+0,0,5,3,0,0,1,68,Venstre,0
+0,0,6,1,0,0,1,60,Dansk Folkeparti,0
+0,0,5,2,0,0,0,23,Venstre,0
+0,1,6,12,0,1,1,31,Enhedslisten,1
+0,1,10,16,1,1,0,37,Radikale,1
+1,0,10,1,1,0,0,68,Socialdemokratiet,1
+1,1,0,3,0,0,0,24,Enhedslisten,1
+1,0,15,1,1,0,1,18,NA,NA
+0,0,6,1,0,0,0,75,Liberal Alliance,0
+1,1,20,50,1,1,1,43,Radikale,1
+1,0,15,3,1,0,1,66,Venstre,0
+0,1,10,3,1,0,0,53,Socialdemokratiet,1
+0,0,10,4,1,0,0,70,Dansk Folkeparti,0
+1,1,0,8,0,0,1,26,SF,1
+0,1,7,10,0,1,0,74,Socialdemokratiet,1
+1,1,25,30,1,1,1,63,Venstre,0
+1,1,3,2,0,0,0,50,Socialdemokratiet,1
+0,0,6,2,0,0,1,53,Venstre,0
+1,0,25,5,1,0,0,46,Venstre,0
+0,1,8,6,0,0,1,68,Socialdemokratiet,1
+0,0,20,4,1,0,0,81,Socialdemokratiet,1
+0,0,15,15,1,1,1,69,Konservative,0
+0,1,14,4,1,0,0,42,NA,NA
+1,1,15,5,1,0,1,59,NA,NA
+0,1,6,7,0,0,0,68,Socialdemokratiet,1
+1,0,30,3,1,0,1,22,Radikale,1
+1,0,15,0,1,0,1,24,NA,NA
+1,0,35,2,1,0,0,59,Socialdemokratiet,1
+1,1,15,1,1,0,0,56,Nye Borgerlige,0
+0,0,10,4,1,0,0,32,Socialdemokratiet,1
+1,1,35,12,1,1,0,49,Socialdemokratiet,1
+1,0,8,4,0,0,1,21,Liberal Alliance,0
+0,0,50,25,1,1,0,56,Nye Borgerlige,0
+0,0,6,5,0,0,1,38,Venstre,0
+1,1,25,6,1,0,1,69,Dansk Folkeparti,0
+0,1,5,5,0,0,0,80,Konservative,0
+0,0,8,1,0,0,0,44,Nye Borgerlige,0
+0,0,6,3,0,0,1,30,Socialdemokratiet,1
+1,1,50,1,1,0,1,51,Nye Borgerlige,0
+1,0,25,0,1,0,0,37,Dansk Folkeparti,0
+0,1,4,1,0,0,1,27,Liberal Alliance,0
+1,0,12,3,1,0,0,45,Socialdemokratiet,1
+1,0,20,2,1,0,1,74,Socialdemokratiet,1
+0,0,12,9,1,0,0,35,SF,1
+0,1,8,4,0,0,1,48,Socialdemokratiet,1
+1,1,35,14,1,1,0,56,Socialdemokratiet,1
+1,0,20,3,1,0,0,54,Dansk Folkeparti,0
+1,1,25,4,1,0,0,68,Venstre,0
+0,0,10,20,1,1,0,33,SF,1
+1,0,15,1,1,0,1,58,Socialdemokratiet,1
+0,1,8,4,0,0,1,51,Enhedslisten,1
+1,0,10,10,1,1,1,79,SF,1
+1,1,7,7,0,0,1,77,Dansk Folkeparti,0
+0,1,9,1,0,0,0,21,Enhedslisten,1
+0,0,15,1,1,0,0,71,Dansk Folkeparti,0
+1,0,40,2,1,0,0,65,Venstre,0
+1,1,20,40,1,1,0,76,Venstre,0
+0,1,6,12,0,1,1,66,NA,NA
+0,1,7,4,0,0,0,37,Socialdemokratiet,1
+0,0,20,10,1,1,1,48,Socialdemokratiet,1
+0,0,10,0,1,0,1,44,Socialdemokratiet,1
+0,1,8,25,0,1,1,78,Enhedslisten,1
+1,0,20,3,1,0,0,23,SF,1
+1,0,15,2,1,0,1,66,Venstre,0
+1,0,10,4,1,0,1,50,Radikale,1
+0,0,15,12,1,1,0,25,Enhedslisten,1
+1,0,8,5,0,0,1,76,SF,1
+1,0,5,1,0,0,0,78,Venstre,0
+1,1,10,4,1,0,0,79,Konservative,0
+0,1,30,8,1,0,1,60,Socialdemokratiet,1
+1,1,15,3,1,0,1,68,Enhedslisten,1
+0,1,6,11,0,1,0,24,Radikale,1
+0,1,20,25,1,1,1,55,Socialdemokratiet,1
+0,0,20,4,1,0,1,50,Socialdemokratiet,1
+1,0,15,0,1,0,0,43,Alternativet,1
+1,1,8,3,0,0,1,20,Nye Borgerlige,0
+0,1,5,4,0,0,0,76,Socialdemokratiet,1
+0,0,40,2,1,0,0,64,Socialdemokratiet,1
+1,0,20,20,1,1,0,21,Socialdemokratiet,1
+1,0,10,1,1,0,1,69,Socialdemokratiet,1
+0,1,5,1,0,0,1,41,SF,1
+1,1,15,50,1,1,0,69,Enhedslisten,1
+0,0,8,13,0,1,1,68,Radikale,1
+1,1,15,25,1,1,1,37,Socialdemokratiet,1
+1,1,15,20,1,1,0,58,Nye Borgerlige,0
+0,0,6,23,0,1,0,19,SF,1
+0,0,6,1,0,0,1,23,Venstre,0
+1,1,24,6,1,0,1,24,Konservative,0
+0,0,6,0,0,0,0,74,Konservative,0
+0,1,4,6,0,0,1,77,Socialdemokratiet,1
+0,0,7,25,0,1,1,44,Nye Borgerlige,0
+0,1,6,4,0,0,0,32,Alternativet,1
+1,1,20,3,1,0,0,70,Radikale,1
+0,1,12,20,1,1,1,25,NA,NA
+0,0,50,35,1,1,0,64,Enhedslisten,1
+1,0,17,4,1,0,1,40,Enhedslisten,1
+1,1,5,1,0,0,1,74,NA,NA
+0,0,7,2,0,0,1,46,Dansk Folkeparti,0
+1,1,23,4,1,0,0,61,Venstre,0
+0,1,9,11,0,1,0,75,Venstre,0
+0,1,1,0,0,0,1,39,Socialdemokratiet,1
+1,0,10,0,1,0,1,69,Enhedslisten,1
+0,0,4,0,0,0,0,35,SF,1
+0,1,8,10,0,1,0,68,Dansk Folkeparti,0
+1,0,6,2,0,0,1,62,Socialdemokratiet,1
+1,1,10,8,1,0,0,77,Radikale,1
+1,1,12,1,1,0,1,77,NA,NA
+0,0,11,5,1,0,1,65,Dansk Folkeparti,0
+1,0,20,5,1,0,0,54,Konservative,0
+0,0,17,3,1,0,0,40,NA,NA
+0,0,10,0,1,0,0,74,Dansk Folkeparti,0
+0,1,5,1,0,0,0,55,Socialdemokratiet,1
+1,0,20,10,1,1,1,73,Nye Borgerlige,0
+1,0,14,1,1,0,0,72,Socialdemokratiet,1
+1,1,10,1,1,0,0,61,Konservative,0
+1,0,5,0,0,0,0,49,NA,NA
+0,1,15,12,1,1,1,59,Venstre,0
+1,1,16,25,1,1,0,32,Alternativet,1
+0,0,3,1,0,0,1,58,Nye Borgerlige,0
+0,0,30,5,1,0,1,63,Socialdemokratiet,1
+0,0,15,3,1,0,0,69,Dansk Folkeparti,0
+1,1,8,5,0,0,1,29,NA,NA
+0,1,5,20,0,1,0,46,Venstre,0
+1,1,30,25,1,1,1,55,Socialdemokratiet,1
+1,0,40,2,1,0,0,64,Dansk Folkeparti,0
+0,0,5,1,0,0,0,48,Socialdemokratiet,1
+0,1,6,5,0,0,1,48,Dansk Folkeparti,0
+1,1,37,1,1,0,0,59,Venstre,0
+1,0,50,25,1,1,0,59,Socialdemokratiet,1
+1,0,10,3,1,0,1,68,Socialdemokratiet,1
+0,1,6,5,0,0,1,58,Socialdemokratiet,1
+0,0,6,1,0,0,0,74,Socialdemokratiet,1
+1,1,30,5,1,0,1,29,Socialdemokratiet,1
+0,1,8,4,0,0,0,68,Socialdemokratiet,1
+1,0,25,2,1,0,1,24,Socialdemokratiet,1
+1,0,3,2,0,0,1,82,Venstre,0
+0,0,6,7,0,0,1,52,Dansk Folkeparti,0
+0,0,6,1,0,0,1,74,Venstre,0
+1,1,10,5,1,0,1,86,Nye Borgerlige,0
+0,1,10,4,1,0,0,65,Dansk Folkeparti,0
+1,1,25,2,1,0,0,57,Socialdemokratiet,1
+1,0,5,4,0,0,1,88,Konservative,0
+0,0,30,3,1,0,0,31,Dansk Folkeparti,0
+1,1,15,4,1,0,1,45,Konservative,0
+0,1,15,8,1,0,1,66,Socialdemokratiet,1
+0,0,14,1,1,0,1,81,Socialdemokratiet,1
+1,0,15,6,1,0,0,52,Venstre,0
+0,0,6,8,0,0,0,80,Dansk Folkeparti,0
+1,1,10,1,1,0,0,24,Venstre,0
+1,0,20,2,1,0,0,65,Socialdemokratiet,1
+0,1,8,10,0,1,1,73,Venstre,0
+0,0,7,10,0,1,0,52,Socialdemokratiet,1
+1,0,18,7,1,0,0,45,Konservative,0
+0,1,10,25,1,1,1,50,Socialdemokratiet,1
+1,1,8,0,0,0,1,44,Venstre,0
+1,1,30,1,1,0,0,79,Konservative,0
+0,0,5,3,0,0,1,59,Nye Borgerlige,0
+1,1,25,18,1,1,0,57,SF,1
+0,1,8,0,0,0,0,69,Enhedslisten,1
+1,0,14,3,1,0,1,77,SF,1
+1,0,12,10,1,1,1,22,Socialdemokratiet,1
+1,1,30,10,1,1,1,58,Radikale,1
+0,1,15,2,1,0,0,55,Nye Borgerlige,0
+0,0,5,6,0,0,1,55,Venstre,0
+0,1,15,5,1,0,0,24,Radikale,1
+0,1,3,4,0,0,1,81,Radikale,1
+0,1,6,1,0,0,1,71,Socialdemokratiet,1
+0,0,7,4,0,0,1,63,Socialdemokratiet,1
+1,1,15,11,1,1,0,64,Socialdemokratiet,1
+1,1,20,5,1,0,0,57,Enhedslisten,1
+1,0,2,3,0,0,1,63,Socialdemokratiet,1
+1,1,10,8,1,0,1,34,Venstre,0
+1,0,12,4,1,0,1,73,Socialdemokratiet,1
+0,1,6,10,0,1,1,76,Venstre,0
+1,0,6,3,0,0,0,81,Dansk Folkeparti,0
+0,1,15,18,1,1,0,48,Konservative,0
+0,0,25,2,1,0,1,47,Socialdemokratiet,1
+0,1,10,12,1,1,1,34,NA,NA
+1,0,28,2,1,0,0,20,SF,1
+1,1,20,10,1,1,1,38,Socialdemokratiet,1
+0,1,30,10,1,1,0,35,NA,NA
+0,1,8,3,0,0,0,74,Socialdemokratiet,1
+0,1,5,2,0,0,1,67,Enhedslisten,1
+1,1,25,10,1,1,0,51,Venstre,0
+0,0,3,6,0,0,0,82,Nye Borgerlige,0
+0,0,8,1,0,0,0,50,NA,NA
+1,0,25,15,1,1,1,66,Venstre,0
+1,1,2,0,0,0,1,39,NA,NA
+0,0,15,0,1,0,1,48,Nye Borgerlige,0
+1,0,60,10,1,1,0,30,Venstre,0
+1,0,22,9,1,0,0,59,Socialdemokratiet,1
+1,1,6,30,0,1,0,21,Dansk Folkeparti,0
+1,0,15,1,1,0,1,53,Socialdemokratiet,1
+0,0,25,3,1,0,1,76,Radikale,1
+0,1,2,0,0,0,0,80,Venstre,0
+1,1,12,11,1,1,0,71,Enhedslisten,1
+0,0,10,3,1,0,0,53,Socialdemokratiet,1
+1,1,17,0,1,0,1,51,Enhedslisten,1
+1,0,10,0,1,0,0,72,Konservative,0
+0,1,7,4,0,0,0,74,Venstre,0
+0,0,6,5,0,0,0,76,Dansk Folkeparti,0
+1,0,10,3,1,0,0,63,Socialdemokratiet,1
+1,1,50,3,1,0,0,53,Socialdemokratiet,1
+1,1,20,15,1,1,0,53,Konservative,0
+0,0,15,2,1,0,0,59,Venstre,0
+0,1,8,4,0,0,0,27,NA,NA
+1,1,10,5,1,0,0,54,Nye Borgerlige,0
+0,0,7,3,0,0,0,78,Socialdemokratiet,1
+0,1,5,7,0,0,1,48,Socialdemokratiet,1
+0,0,10,15,1,1,1,50,Socialdemokratiet,1
+1,0,8,3,0,0,1,82,Socialdemokratiet,1
+1,1,15,70,1,1,0,64,Venstre,0
+0,1,10,4,1,0,0,29,Liberal Alliance,0
+0,0,8,21,0,1,0,28,Konservative,0
+0,1,7,1,0,0,0,61,Venstre,0
+1,0,30,3,1,0,0,34,Venstre,0
+0,0,10,4,1,0,0,56,SF,1
+0,1,6,6,0,0,0,28,Socialdemokratiet,1
+1,0,20,3,1,0,0,63,Socialdemokratiet,1
+1,1,35,4,1,0,0,64,Venstre,0
+1,0,6,0,0,0,0,63,NA,NA
+0,1,6,0,0,0,1,76,Radikale,1
+0,1,5,40,0,1,0,77,Socialdemokratiet,1
+1,1,25,1,1,0,0,78,Socialdemokratiet,1
+1,1,20,20,1,1,1,56,Enhedslisten,1
+1,0,16,12,1,1,1,69,Radikale,1
+0,0,15,7,1,0,0,56,Socialdemokratiet,1
+1,1,20,2,1,0,0,31,Enhedslisten,1
+1,0,20,30,1,1,1,45,Venstre,0
+1,1,10,2,1,0,0,67,Venstre,0
+1,0,10,5,1,0,0,74,Socialdemokratiet,1
+0,0,10,2,1,0,0,42,Venstre,0
+0,0,15,5,1,0,0,33,Venstre,0
+0,1,20,8,1,0,0,69,Enhedslisten,1
+1,0,15,1,1,0,0,40,Venstre,0
+1,1,15,8,1,0,1,61,Enhedslisten,1
+0,1,15,2,1,0,0,74,Socialdemokratiet,1
+0,0,6,12,0,1,1,69,Venstre,0
+1,1,35,30,1,1,0,50,Socialdemokratiet,1
+0,0,15,3,1,0,0,28,SF,1
+0,1,10,8,1,0,0,35,SF,1
+1,1,15,5,1,0,0,83,Socialdemokratiet,1
+0,0,10,1,1,0,1,74,Socialdemokratiet,1
+0,0,15,6,1,0,1,37,SF,1
+0,1,9,25,0,1,0,53,SF,1
+1,0,20,12,1,1,0,69,Socialdemokratiet,1
+1,1,12,6,1,0,1,33,Liberal Alliance,0
+1,0,5,0,0,0,0,58,Enhedslisten,1
+0,0,10,4,1,0,0,38,Socialdemokratiet,1
+0,0,20,20,1,1,1,44,Radikale,1
+0,1,8,4,0,0,1,68,SF,1
+0,0,6,8,0,0,1,40,NA,NA
+1,0,7,3,0,0,1,67,Socialdemokratiet,1
+0,1,14,12,1,1,0,43,Dansk Folkeparti,0
+1,1,25,2,1,0,0,31,Socialdemokratiet,1
+0,1,7,10,0,1,1,66,Venstre,0
+1,0,20,6,1,0,0,72,Venstre,0
+0,0,10,0,1,0,0,68,SF,1
+0,1,16,4,1,0,0,78,Socialdemokratiet,1
+1,0,12,4,1,0,1,53,Dansk Folkeparti,0
+1,1,32,9,1,0,0,39,Nye Borgerlige,0
+0,1,25,12,1,1,0,55,Liberal Alliance,0
+1,0,20,1,1,0,0,57,Socialdemokratiet,1
+1,1,20,2,1,0,1,80,Socialdemokratiet,1
+1,1,18,35,1,1,0,42,Enhedslisten,1
+1,1,15,5,1,0,1,76,Socialdemokratiet,1
+0,1,10,1,1,0,0,43,Konservative,0
+0,1,14,12,1,1,1,62,Enhedslisten,1
+0,0,10,8,1,0,1,72,Nye Borgerlige,0
+1,0,30,10,1,1,1,39,Dansk Folkeparti,0
+0,0,10,4,1,0,0,20,SF,1
+1,0,10,10,1,1,1,42,Konservative,0
+1,0,10,1,1,0,0,55,Enhedslisten,1
+0,0,10,10,1,1,1,58,Venstre,0
+0,1,15,20,1,1,1,54,Socialdemokratiet,1
+1,1,0,10,0,1,1,65,Enhedslisten,1
+1,1,10,3,1,0,0,29,Alternativet,1
+0,0,12,4,1,0,0,85,Konservative,0
+0,1,15,6,1,0,1,33,NA,NA
+1,0,75,50,1,1,0,56,SF,1
+0,0,10,2,1,0,0,48,Socialdemokratiet,1
+1,0,18,2,1,0,0,75,Konservative,0
+1,1,15,22,1,1,0,32,Socialdemokratiet,1
+0,1,25,4,1,0,0,42,NA,NA
+0,1,10,4,1,0,0,71,Venstre,0
+0,1,10,5,1,0,1,27,Dansk Folkeparti,0
+1,0,8,30,0,1,1,77,Venstre,0
+1,0,20,2,1,0,1,84,Venstre,0
+0,1,10,8,1,0,0,61,SF,1
+1,1,10,2,1,0,0,65,Socialdemokratiet,1
+1,0,10,1,1,0,1,67,Nye Borgerlige,0
+1,1,20,5,1,0,1,59,Socialdemokratiet,1
+1,1,12,10,1,1,0,74,Socialdemokratiet,1
+1,0,10,1,1,0,0,73,Socialdemokratiet,1
+1,1,10,8,1,0,1,83,Konservative,0
+0,0,25,20,1,1,1,28,NA,NA
+1,0,90,50,1,1,0,58,Dansk Folkeparti,0
+0,0,10,5,1,0,1,52,NA,NA
+0,1,6,30,0,1,1,56,Venstre,0
+0,0,15,10,1,1,0,30,SF,1
+0,0,12,3,1,0,0,23,SF,1
+1,0,15,3,1,0,1,41,Konservative,0
+1,1,30,15,1,1,1,35,Socialdemokratiet,1
+0,1,10,9,1,0,0,64,Venstre,0
+1,1,20,1,1,0,0,69,Socialdemokratiet,1
+0,1,2,0,0,0,1,23,NA,NA
+0,0,15,5,1,0,1,56,Socialdemokratiet,1
+1,0,20,1,1,0,0,69,Socialdemokratiet,1
+1,1,3,3,0,0,1,81,Venstre,0
+0,1,6,16,0,1,0,58,Enhedslisten,1
+1,1,15,1,1,0,1,24,Konservative,0
+0,1,20,12,1,1,1,60,Socialdemokratiet,1
+0,0,14,13,1,1,0,32,Dansk Folkeparti,0
+0,0,12,10,1,1,1,71,Socialdemokratiet,1
+1,1,20,5,1,0,1,25,NA,NA
+0,0,10,10,1,1,0,54,Radikale,1
+1,1,10,20,1,1,0,65,Socialdemokratiet,1
+1,1,10,12,1,1,0,64,Socialdemokratiet,1
+1,0,20,4,1,0,1,38,Enhedslisten,1
+0,1,7,10,0,1,1,73,Venstre,0
+1,0,15,2,1,0,1,57,Nye Borgerlige,0
+1,0,10,50,1,1,1,62,SF,1
+1,0,20,1,1,0,1,62,Socialdemokratiet,1
+0,0,5,9,0,0,1,38,SF,1
+0,0,10,99,1,1,1,51,NA,NA
+1,1,20,2,1,0,1,31,Socialdemokratiet,1
+0,1,10,4,1,0,0,60,Konservative,0
+0,1,15,20,1,1,1,74,NA,NA
+0,0,20,2,1,0,0,55,Enhedslisten,1
+0,1,6,12,0,1,1,71,Socialdemokratiet,1
+1,0,12,2,1,0,0,70,Socialdemokratiet,1
+0,0,6,20,0,1,0,58,Venstre,0
+0,1,20,2,1,0,0,76,SF,1
+1,0,20,35,1,1,0,28,Socialdemokratiet,1
+0,1,20,10,1,1,0,73,Socialdemokratiet,1
+1,1,24,6,1,0,0,69,Venstre,0
+1,0,10,5,1,0,0,77,Dansk Folkeparti,0
+0,0,4,3,0,0,1,80,Socialdemokratiet,1
+1,0,20,4,1,0,0,34,Venstre,0
+0,0,7,0,0,0,0,33,Venstre,0
+1,0,6,5,0,0,1,46,Radikale,1
+1,0,20,3,1,0,0,23,Radikale,1
+0,1,7,50,0,1,1,56,Socialdemokratiet,1
+1,1,15,10,1,1,0,31,Socialdemokratiet,1
+0,1,8,9,0,0,0,46,Socialdemokratiet,1
+1,1,30,17,1,1,0,48,Socialdemokratiet,1
+1,1,10,4,1,0,1,57,Dansk Folkeparti,0
+0,0,7,3,0,0,1,74,Socialdemokratiet,1
+0,1,15,15,1,1,1,43,Socialdemokratiet,1
+0,0,25,8,1,0,1,83,Socialdemokratiet,1
+1,1,20,10,1,1,1,78,Venstre,0
+0,1,20,6,1,0,0,22,Socialdemokratiet,1
+1,1,15,3,1,0,0,73,NA,NA
+1,1,24,7,1,0,1,54,Konservative,0
+1,1,13,4,1,0,0,23,Enhedslisten,1
+0,0,8,9,0,0,1,77,SF,1
+1,0,20,4,1,0,1,45,Enhedslisten,1
+0,1,10,15,1,1,1,64,NA,NA
+0,1,11,9,1,0,1,77,Socialdemokratiet,1
+0,1,10,1,1,0,0,64,Venstre,0
+1,0,40,80,1,1,0,29,Socialdemokratiet,1
+0,0,6,4,0,0,0,76,Enhedslisten,1
+0,1,6,15,0,1,0,39,Socialdemokratiet,1
+0,0,15,7,1,0,0,71,Konservative,0
+1,1,12,6,1,0,0,51,Socialdemokratiet,1
+1,0,20,3,1,0,0,65,Radikale,1
+1,1,30,10,1,1,1,55,Venstre,0
+0,0,10,3,1,0,0,27,Venstre,0
+1,0,20,0,1,0,0,58,Dansk Folkeparti,0
+0,1,10,10,1,1,0,21,Radikale,1
+0,0,10,10,1,1,1,63,NA,NA
+1,0,20,3,1,0,1,76,Venstre,0
+0,0,10,2,1,0,1,45,SF,1
+1,0,15,1,1,0,1,64,Venstre,0
+0,0,8,0,0,0,1,74,Radikale,1
+0,1,10,5,1,0,1,49,Konservative,0
+1,1,30,99,1,1,1,62,Konservative,0
+1,1,10,2,1,0,0,38,Konservative,0
+0,0,15,16,1,1,0,59,Socialdemokratiet,1
+1,1,30,13,1,1,1,40,Socialdemokratiet,1
+0,1,10,15,1,1,0,29,Socialdemokratiet,1
+0,1,2,2,0,0,1,72,NA,NA
+1,1,8,1,0,0,1,51,NA,NA
+0,0,20,7,1,0,0,71,Socialdemokratiet,1
+1,0,30,2,1,0,0,57,Dansk Folkeparti,0
+0,1,5,4,0,0,1,55,Dansk Folkeparti,0
+0,0,4,0,0,0,0,79,Socialdemokratiet,1
+1,0,15,30,1,1,0,70,Socialdemokratiet,1
+1,1,5,7,0,0,0,29,Radikale,1
+1,0,20,16,1,1,1,47,Socialdemokratiet,1
+1,0,10,1,1,0,1,49,Radikale,1
+1,1,99,99,1,1,1,50,NA,NA
+1,1,24,4,1,0,0,78,Dansk Folkeparti,0
+0,0,10,5,1,0,0,49,Konservative,0
+0,0,10,3,1,0,1,55,Dansk Folkeparti,0
+1,1,25,3,1,0,0,51,Socialdemokratiet,1
+1,0,15,5,1,0,1,69,Radikale,1
+0,1,30,2,1,0,0,29,SF,1
+1,0,10,0,1,0,0,51,Enhedslisten,1
+0,0,5,1,0,0,0,64,NA,NA
+0,0,6,1,0,0,1,69,Venstre,0
+0,1,5,1,0,0,1,69,Konservative,0
+1,1,10,5,1,0,1,73,Radikale,1
+0,1,15,4,1,0,0,65,Dansk Folkeparti,0
+0,1,2,2,0,0,1,78,Socialdemokratiet,1
+1,0,25,1,1,0,0,45,Socialdemokratiet,1
+0,0,10,6,1,0,0,73,Socialdemokratiet,1
+1,1,20,4,1,0,1,20,Enhedslisten,1
+1,0,15,1,1,0,1,79,Socialdemokratiet,1
+1,0,20,1,1,0,1,44,Dansk Folkeparti,0
+1,1,35,4,1,0,0,69,NA,NA
+0,0,6,0,0,0,0,70,Venstre,0
+0,1,4,1,0,0,1,47,Nye Borgerlige,0
+0,1,3,1,0,0,0,46,Enhedslisten,1
+0,0,8,1,0,0,1,80,Socialdemokratiet,1
+1,0,20,1,1,0,1,49,Konservative,0
+1,0,15,4,1,0,0,73,Konservative,0
+0,0,5,4,0,0,1,73,Venstre,0
+0,1,8,0,0,0,0,69,Dansk Folkeparti,0
+1,1,15,1,1,0,1,71,Enhedslisten,1
+0,0,8,4,0,0,0,75,Socialdemokratiet,1
+0,1,20,6,1,0,0,75,Socialdemokratiet,1
+1,1,20,20,1,1,0,51,Nye Borgerlige,0
+0,1,5,6,0,0,1,60,Socialdemokratiet,1
+0,0,8,6,0,0,1,59,Socialdemokratiet,1
+0,1,25,2,1,0,0,63,NA,NA
+1,1,15,1,1,0,0,49,Venstre,0
+0,0,12,1,1,0,1,73,Socialdemokratiet,1
+1,1,12,5,1,0,0,70,Liberal Alliance,0
+1,0,40,20,1,1,1,69,Venstre,0
+0,0,15,3,1,0,1,40,Venstre,0
+0,1,10,50,1,1,1,49,Konservative,0
+1,0,10,15,1,1,0,58,NA,NA
+0,1,11,8,1,0,1,29,Socialdemokratiet,1
+1,1,15,50,1,1,1,48,Dansk Folkeparti,0
+1,0,25,1,1,0,0,64,NA,NA
+0,1,8,6,0,0,0,67,Socialdemokratiet,1
+1,1,10,15,1,1,1,24,Nye Borgerlige,0
+1,0,12,0,1,0,1,77,Dansk Folkeparti,0
+1,1,15,1,1,0,0,52,Enhedslisten,1
+0,0,20,5,1,0,0,47,Socialdemokratiet,1
+1,0,36,1,1,0,0,68,SF,1
+1,1,10,30,1,1,1,45,Nye Borgerlige,0
+0,0,6,3,0,0,0,25,Socialdemokratiet,1
+0,1,50,5,1,0,1,35,Enhedslisten,1
+0,0,8,5,0,0,1,62,Socialdemokratiet,1
+0,0,5,1,0,0,0,64,Socialdemokratiet,1
+0,0,30,0,1,0,1,55,Venstre,0
+1,0,20,3,1,0,0,56,NA,NA
+1,0,25,1,1,0,0,84,Socialdemokratiet,1
+1,1,10,6,1,0,1,41,Venstre,0
+0,1,7,5,0,0,1,75,Socialdemokratiet,1
+1,0,20,3,1,0,1,32,NA,NA
+0,1,12,3,1,0,0,75,Enhedslisten,1
+0,0,12,2,1,0,0,59,Konservative,0
+1,0,20,8,1,0,1,60,Socialdemokratiet,1
+1,1,15,5,1,0,0,31,Socialdemokratiet,1
+0,0,3,8,0,0,1,19,Radikale,1
+1,1,6,1,0,0,1,23,NA,NA
+1,0,10,1,1,0,1,79,Venstre,0
+1,0,20,15,1,1,0,53,Socialdemokratiet,1
+0,1,10,5,1,0,1,45,Enhedslisten,1
+1,1,15,7,1,0,0,52,Radikale,1
+1,1,15,3,1,0,1,66,Socialdemokratiet,1
+0,0,5,2,0,0,1,75,Socialdemokratiet,1
+0,0,5,0,0,0,0,66,Enhedslisten,1
+1,0,12,2,1,0,1,44,Enhedslisten,1
+1,1,50,17,1,1,0,56,Venstre,0
+1,0,15,1,1,0,0,33,Enhedslisten,1
+0,1,5,4,0,0,0,67,SF,1
+1,0,20,2,1,0,0,56,Enhedslisten,1
+0,1,6,5,0,0,0,74,Socialdemokratiet,1
+0,0,10,1,1,0,0,70,Socialdemokratiet,1
+0,1,4,5,0,0,1,80,Konservative,0
+1,1,20,5,1,0,0,60,Socialdemokratiet,1
+0,1,20,3,1,0,1,53,Socialdemokratiet,1
+0,0,8,1,0,0,0,77,Venstre,0
+1,1,20,12,1,1,1,58,Venstre,0
+1,0,30,1,1,0,0,71,Dansk Folkeparti,0
+1,0,50,3,1,0,0,68,Enhedslisten,1
+1,1,15,2,1,0,0,76,Konservative,0
+1,1,10,3,1,0,1,70,Socialdemokratiet,1
+0,0,7,1,0,0,1,23,NA,NA
+1,0,10,1,1,0,1,76,NA,NA
+1,0,10,3,1,0,1,65,Socialdemokratiet,1
+0,0,6,2,0,0,1,76,Socialdemokratiet,1
+0,1,10,20,1,1,0,79,Konservative,0
+1,1,10,1,1,0,0,33,NA,NA
+1,1,5,0,0,0,1,53,NA,NA
+1,0,15,15,1,1,1,66,Dansk Folkeparti,0
+0,0,5,1,0,0,0,82,Socialdemokratiet,1
+1,1,10,5,1,0,1,36,NA,NA
+0,1,7,17,0,1,1,66,SF,1
+0,1,20,8,1,0,1,47,Nye Borgerlige,0
+1,0,18,10,1,1,0,60,Venstre,0
+0,1,8,6,0,0,0,69,Dansk Folkeparti,0
+0,0,5,3,0,0,1,22,Radikale,1
+1,0,12,8,1,0,1,61,Socialdemokratiet,1
+0,1,10,1,1,0,1,83,Konservative,0
+0,0,6,5,0,0,0,58,Enhedslisten,1
+0,0,5,5,0,0,0,41,Venstre,0
+0,1,20,3,1,0,0,59,SF,1
+1,0,24,12,1,1,0,79,NA,NA
+1,0,20,4,1,0,1,39,Liberal Alliance,0
+1,1,27,5,1,0,0,53,Socialdemokratiet,1
+1,0,18,1,1,0,0,78,NA,NA
+0,1,20,7,1,0,0,42,NA,NA
+1,1,10,2,1,0,0,84,Dansk Folkeparti,0
+0,0,25,2,1,0,1,56,Alternativet,1
+0,1,5,5,0,0,0,75,Socialdemokratiet,1
+0,0,25,2,1,0,0,51,Dansk Folkeparti,0
+1,1,10,3,1,0,0,52,Venstre,0
+1,0,20,2,1,0,0,70,Socialdemokratiet,1
+1,1,30,14,1,1,1,57,NA,NA
+0,1,6,3,0,0,1,56,Socialdemokratiet,1
+1,0,40,3,1,0,0,45,Konservative,0
+1,0,12,15,1,1,1,51,Venstre,0
+0,0,15,1,1,0,0,71,Socialdemokratiet,1
+1,1,25,10,1,1,0,19,Dansk Folkeparti,0
+0,1,8,1,0,0,0,69,Radikale,1
+1,1,20,4,1,0,1,41,Nye Borgerlige,0
+0,1,8,30,0,1,1,31,NA,NA
+0,1,15,4,1,0,0,66,Enhedslisten,1
+1,1,10,5,1,0,0,24,Enhedslisten,1
+0,1,30,5,1,0,0,27,Venstre,0
+0,0,15,6,1,0,0,30,Enhedslisten,1
+0,0,13,25,1,1,0,20,Radikale,1
+1,0,20,1,1,0,0,23,Enhedslisten,1
+1,0,20,5,1,0,0,28,NA,NA
+1,1,15,1,1,0,0,74,Konservative,0
+0,1,40,15,1,1,0,39,Socialdemokratiet,1
+0,1,20,4,1,0,0,38,NA,NA
+1,1,15,4,1,0,0,64,Socialdemokratiet,1
+0,0,10,2,1,0,1,71,Venstre,0
+1,1,15,3,1,0,0,22,Socialdemokratiet,1
+0,0,6,0,0,0,0,59,Venstre,0
+1,0,10,15,1,1,0,74,Konservative,0
+0,0,12,1,1,0,0,62,Socialdemokratiet,1
+0,1,20,2,1,0,0,74,Socialdemokratiet,1
+1,0,25,5,1,0,0,80,Socialdemokratiet,1
+1,0,50,10,1,1,0,24,SF,1
+0,0,8,7,0,0,1,24,Nye Borgerlige,0
+0,1,3,16,0,1,1,67,Socialdemokratiet,1
+0,1,7,4,0,0,0,26,Radikale,1
+0,0,10,1,1,0,1,67,Konservative,0
+1,1,30,15,1,1,0,57,Venstre,0
+1,1,12,10,1,1,1,63,Socialdemokratiet,1
+1,0,15,5,1,0,1,83,SF,1
+0,0,8,3,0,0,0,73,Socialdemokratiet,1
+0,1,30,13,1,1,0,33,Socialdemokratiet,1
+0,0,25,15,1,1,0,45,Socialdemokratiet,1
+1,1,3,0,0,0,1,39,Nye Borgerlige,0
+0,1,8,7,0,0,1,62,Socialdemokratiet,1
+1,1,32,20,1,1,1,42,Venstre,0
+1,0,15,12,1,1,0,59,SF,1
+0,0,10,12,1,1,0,27,NA,NA
+1,1,20,8,1,0,0,28,NA,NA
+1,0,20,10,1,1,0,70,Venstre,0
+1,0,9,18,0,1,1,49,NA,NA
+0,0,8,1,0,0,1,27,NA,NA
+1,0,15,5,1,0,1,64,Socialdemokratiet,1
+0,0,3,2,0,0,0,67,Konservative,0
+0,1,4,1,0,0,1,67,NA,NA
+1,1,25,5,1,0,0,71,Konservative,0
+1,1,10,1,1,0,0,79,Venstre,0
+1,1,35,16,1,1,1,29,Socialdemokratiet,1
+0,1,12,6,1,0,0,69,SF,1
+0,0,20,0,1,0,0,68,Dansk Folkeparti,0
+0,1,12,4,1,0,0,64,Enhedslisten,1
+1,0,24,4,1,0,0,64,Socialdemokratiet,1
+0,0,60,20,1,1,0,45,Socialdemokratiet,1
+1,1,30,12,1,1,0,52,Socialdemokratiet,1
+0,0,8,6,0,0,1,63,Enhedslisten,1
+1,1,25,10,1,1,0,32,SF,1
+0,1,20,50,1,1,1,35,NA,NA
+1,0,10,15,1,1,1,45,Nye Borgerlige,0
+0,0,10,4,1,0,1,70,Konservative,0
+0,1,6,1,0,0,0,80,Socialdemokratiet,1
+1,0,5,1,0,0,0,33,NA,NA
+1,0,15,8,1,0,0,54,Venstre,0
+0,1,7,8,0,0,1,44,Enhedslisten,1
+0,0,2,59,0,1,0,47,NA,NA
+1,0,12,6,1,0,0,48,NA,NA
+0,1,20,40,1,1,1,45,Nye Borgerlige,0
+0,1,12,6,1,0,0,74,Venstre,0
+0,0,8,3,0,0,1,65,Socialdemokratiet,1
+1,1,32,10,1,1,1,77,Venstre,0
+0,1,10,13,1,1,0,45,NA,NA
+1,1,10,5,1,0,0,70,Konservative,0
+1,0,14,5,1,0,1,37,Venstre,0
+0,0,25,0,1,0,0,48,NA,NA
+1,0,8,5,0,0,1,67,Dansk Folkeparti,0
+1,1,5,1,0,0,1,48,Venstre,0
+0,1,12,5,1,0,0,37,Socialdemokratiet,1
+0,0,15,5,1,0,0,81,Venstre,0
+1,0,20,8,1,0,0,38,SF,1
+0,0,40,3,1,0,0,22,NA,NA
+1,1,15,1,1,0,1,70,Venstre,0
+1,0,15,1,1,0,1,78,Socialdemokratiet,1
+0,1,8,10,0,1,0,78,Socialdemokratiet,1
+1,0,18,6,1,0,0,66,Socialdemokratiet,1
+1,1,14,6,1,0,1,34,Socialdemokratiet,1
+0,0,10,25,1,1,1,39,Dansk Folkeparti,0
+0,1,20,15,1,1,1,31,Radikale,1
+0,1,7,4,0,0,1,28,NA,NA
+1,1,15,4,1,0,1,24,NA,NA
+1,0,10,1,1,0,1,21,Radikale,1
+0,0,5,3,0,0,1,27,Dansk Folkeparti,0
+1,1,16,1,1,0,1,20,Nye Borgerlige,0
+0,1,10,2,1,0,0,55,Socialdemokratiet,1
+0,1,1,1,0,0,1,31,Venstre,0
+0,0,6,20,0,1,0,37,Socialdemokratiet,1
+0,0,10,3,1,0,1,74,Socialdemokratiet,1
+1,0,25,1,1,0,0,60,NA,NA
+0,1,8,15,0,1,1,36,Venstre,0
+0,1,8,1,0,0,0,21,Socialdemokratiet,1
+1,0,20,5,1,0,1,56,Nye Borgerlige,0
+0,0,8,4,0,0,1,67,Socialdemokratiet,1
+0,1,6,1,0,0,0,22,Enhedslisten,1
+0,1,6,15,0,1,1,70,Venstre,0
+1,0,15,8,1,0,1,31,Socialdemokratiet,1
+1,0,15,0,1,0,0,22,Socialdemokratiet,1
+1,1,20,0,1,0,0,67,NA,NA
+1,1,25,5,1,0,1,69,Venstre,0
+1,1,22,2,1,0,0,22,Enhedslisten,1
+0,0,10,5,1,0,1,76,Enhedslisten,1
+1,0,5,3,0,0,1,36,SF,1
+1,1,20,15,1,1,1,57,Socialdemokratiet,1
+0,0,12,3,1,0,1,58,Socialdemokratiet,1
+1,0,20,5,1,0,1,52,Venstre,0
+1,1,15,8,1,0,0,37,Radikale,1
+1,0,20,5,1,0,0,22,Venstre,0
+1,0,6,10,0,1,0,67,SF,1
+0,1,7,16,0,1,1,70,Socialdemokratiet,1
+0,1,5,1,0,0,0,35,Venstre,0
+0,1,8,0,0,0,0,65,Venstre,0
+0,0,20,8,1,0,0,23,Venstre,0
+0,1,14,2,1,0,0,38,Socialdemokratiet,1
+0,0,11,0,1,0,1,33,NA,NA
+1,1,30,4,1,0,0,36,NA,NA
+1,1,25,2,1,0,1,74,Konservative,0
+0,0,10,6,1,0,0,58,NA,NA
+1,1,10,4,1,0,0,53,Enhedslisten,1
+1,0,15,3,1,0,0,32,NA,NA
+1,0,20,3,1,0,0,81,Radikale,1
+1,1,50,5,1,0,0,22,Konservative,0
+0,1,3,3,0,0,1,21,Konservative,0
+1,0,30,1,1,0,0,39,Socialdemokratiet,1
+1,1,50,5,1,0,1,23,Enhedslisten,1
+0,1,2,15,0,1,1,42,NA,NA
+0,1,10,1,1,0,0,45,Dansk Folkeparti,0
+0,1,10,2,1,0,0,71,Venstre,0
+1,0,3,0,0,0,1,55,Enhedslisten,1
+0,1,8,0,0,0,0,58,NA,NA
+1,1,16,25,1,1,1,44,Socialdemokratiet,1
+0,0,5,2,0,0,1,74,Socialdemokratiet,1
+1,1,5,5,0,0,0,68,SF,1
+0,0,7,1,0,0,1,49,NA,NA
+0,1,5,50,0,1,1,29,Socialdemokratiet,1
+0,0,20,0,1,0,0,83,NA,NA
+1,1,20,12,1,1,0,20,Socialdemokratiet,1
+1,0,25,5,1,0,0,61,Enhedslisten,1
+0,0,10,1,1,0,1,29,Liberal Alliance,0
+1,1,5,6,0,0,1,51,Dansk Folkeparti,0
+0,0,10,6,1,0,0,80,Venstre,0
+0,0,10,8,1,0,0,48,Konservative,0
+0,0,7,2,0,0,1,22,Radikale,1
+1,0,28,5,1,0,0,81,Venstre,0
+0,1,4,0,0,0,1,85,Konservative,0
+1,0,15,6,1,0,1,61,Venstre,0
+1,0,20,12,1,1,0,66,Socialdemokratiet,1
+1,1,26,2,1,0,0,73,Socialdemokratiet,1
+1,1,15,0,1,0,1,67,Dansk Folkeparti,0
+0,0,22,1,1,0,0,72,SF,1
+1,0,20,7,1,0,0,24,Venstre,0
+1,1,18,8,1,0,1,47,Liberal Alliance,0
+0,1,12,10,1,1,0,22,Socialdemokratiet,1
+0,0,7,4,0,0,0,27,Konservative,0
+1,0,20,50,1,1,1,47,Socialdemokratiet,1
+0,1,6,0,0,0,0,62,Enhedslisten,1
+0,0,7,7,0,0,1,71,Venstre,0
+1,0,8,20,0,1,0,74,Venstre,0
+1,1,28,10,1,1,0,48,Konservative,0
+1,0,14,6,1,0,1,71,Socialdemokratiet,1
+0,1,10,8,1,0,0,52,Socialdemokratiet,1
+1,1,13,4,1,0,1,18,SF,1
+0,0,12,3,1,0,0,25,Enhedslisten,1
+1,0,25,3,1,0,0,55,Socialdemokratiet,1
+1,1,20,6,1,0,0,58,Socialdemokratiet,1
+0,1,7,15,0,1,0,27,Socialdemokratiet,1
+1,0,12,4,1,0,1,75,Konservative,0
+1,0,18,0,1,0,1,66,Socialdemokratiet,1
+0,1,8,1,0,0,1,77,Venstre,0
+0,1,2,2,0,0,1,80,Nye Borgerlige,0
+1,1,5,5,0,0,0,38,Enhedslisten,1
+1,0,29,4,1,0,1,73,Socialdemokratiet,1
+0,0,8,1,0,0,0,78,Enhedslisten,1
+1,1,10,2,1,0,0,66,Venstre,0
+1,0,20,50,1,1,0,45,NA,NA
+1,1,14,2,1,0,1,62,NA,NA
+0,0,10,19,1,1,0,35,Radikale,1
+0,0,6,5,0,0,1,29,Enhedslisten,1
+1,1,30,9,1,0,0,60,SF,1
+0,0,17,6,1,0,0,72,Socialdemokratiet,1
+1,1,8,1,0,0,1,62,SF,1
+0,1,15,7,1,0,0,39,Socialdemokratiet,1
+0,0,10,4,1,0,1,54,Enhedslisten,1
+1,0,0,5,0,0,0,83,NA,NA
+1,1,15,5,1,0,0,70,SF,1
+0,0,15,99,1,1,1,24,Enhedslisten,1
+0,1,10,3,1,0,0,29,NA,NA
+0,1,10,3,1,0,1,70,NA,NA
+1,0,15,1,1,0,1,71,Venstre,0
+0,1,15,6,1,0,0,40,Enhedslisten,1
+0,0,12,8,1,0,1,75,Venstre,0
+1,0,15,1,1,0,0,64,Socialdemokratiet,1
+1,1,20,0,1,0,1,65,Socialdemokratiet,1
+0,1,18,4,1,0,1,56,Socialdemokratiet,1
+0,0,15,10,1,1,0,60,Socialdemokratiet,1
+0,0,8,0,0,0,1,75,Konservative,0
+0,0,6,3,0,0,0,77,Socialdemokratiet,1
+1,1,30,0,1,0,0,70,Socialdemokratiet,1
+0,1,15,3,1,0,0,59,Socialdemokratiet,1
+1,0,15,7,1,0,1,83,Venstre,0
+0,1,5,5,0,0,0,22,Enhedslisten,1
+0,1,20,0,1,0,1,51,Socialdemokratiet,1
+0,0,12,1,1,0,0,40,Enhedslisten,1
+1,0,40,7,1,0,0,20,Alternativet,1
+0,0,10,3,1,0,0,77,Socialdemokratiet,1
+1,0,20,28,1,1,1,65,Konservative,0
+1,0,15,30,1,1,0,83,Venstre,0
+1,1,20,3,1,0,1,35,Enhedslisten,1
+0,1,10,5,1,0,1,90,Socialdemokratiet,1
+0,1,12,20,1,1,0,57,Venstre,0
+1,1,5,0,0,0,0,70,SF,1
+1,0,10,50,1,1,1,71,Enhedslisten,1
+1,1,5,1,0,0,1,78,Socialdemokratiet,1
+0,0,7,5,0,0,0,76,Venstre,0
+0,1,8,1,0,0,0,24,Radikale,1
+1,0,15,1,1,0,0,21,NA,NA
+1,1,0,50,0,1,1,23,NA,NA
+1,1,6,3,0,0,0,70,Socialdemokratiet,1
+0,0,6,9,0,0,1,68,Socialdemokratiet,1
+0,1,5,5,0,0,1,76,Konservative,0
+1,1,8,10,0,1,0,81,Konservative,0
+0,0,15,10,1,1,0,46,Venstre,0
+0,1,8,10,0,1,0,72,Socialdemokratiet,1
+1,1,30,3,1,0,0,70,Socialdemokratiet,1
+0,0,12,8,1,0,0,63,Socialdemokratiet,1
+0,1,6,5,0,0,1,62,Venstre,0
+0,0,11,14,1,1,1,86,Socialdemokratiet,1
+0,1,5,10,0,1,0,20,Radikale,1
+0,0,4,9,0,0,1,21,Konservative,0
+0,1,6,20,0,1,1,63,SF,1
+1,1,40,10,1,1,1,58,Venstre,0
+1,0,20,3,1,0,0,53,Enhedslisten,1
+1,0,28,13,1,1,0,37,Socialdemokratiet,1
+1,1,12,3,1,0,0,63,Nye Borgerlige,0
+1,0,10,1,1,0,1,76,SF,1
+1,0,20,3,1,0,1,58,Socialdemokratiet,1
+1,1,35,15,1,1,1,40,NA,NA
+0,0,10,5,1,0,1,69,Konservative,0
+0,1,5,8,0,0,1,83,NA,NA
+0,0,15,3,1,0,0,44,Socialdemokratiet,1
+0,1,12,16,1,1,1,62,SF,1
+1,0,10,3,1,0,1,81,Radikale,1
+0,1,6,14,0,1,0,74,Venstre,0
+1,1,45,50,1,1,1,58,Socialdemokratiet,1
+0,1,10,5,1,0,0,74,Dansk Folkeparti,0
+1,0,5,5,0,0,0,29,NA,NA
+1,0,50,50,1,1,1,56,Socialdemokratiet,1
+1,0,17,8,1,0,0,61,Socialdemokratiet,1
+0,0,8,1,0,0,1,65,NA,NA
+0,1,6,2,0,0,0,46,Venstre,0
+0,1,15,10,1,1,1,59,Konservative,0
+1,1,20,7,1,0,1,27,Liberal Alliance,0
+0,0,15,6,1,0,0,19,Venstre,0
+1,1,10,15,1,1,1,78,Venstre,0
+1,1,50,99,1,1,0,21,Radikale,1
+1,1,5,1,0,0,0,76,Enhedslisten,1
+0,0,10,1,1,0,0,22,Venstre,0
+0,1,5,14,0,1,0,65,Venstre,0
+1,1,15,5,1,0,0,76,Venstre,0
+0,0,5,1,0,0,1,60,Enhedslisten,1
+1,0,5,0,0,0,1,29,Venstre,0
+1,0,5,1,0,0,0,69,NA,NA
+0,1,8,5,0,0,0,74,Enhedslisten,1
+1,1,15,10,1,1,1,66,Socialdemokratiet,1
+1,0,20,2,1,0,0,67,Liberal Alliance,0
+0,1,8,2,0,0,1,49,Dansk Folkeparti,0
+1,1,12,2,1,0,0,84,Venstre,0
+0,0,10,3,1,0,1,39,Dansk Folkeparti,0
+1,1,20,10,1,1,1,37,Nye Borgerlige,0
+1,1,10,99,1,1,1,61,Socialdemokratiet,1
+1,0,15,5,1,0,1,42,Socialdemokratiet,1
+0,0,7,6,0,0,0,74,Venstre,0
+0,1,15,40,1,1,0,29,SF,1
+0,1,8,10,0,1,1,50,Socialdemokratiet,1
+1,0,10,8,1,0,1,29,Nye Borgerlige,0
+1,1,10,2,1,0,0,60,Konservative,0
+0,1,20,2,1,0,1,46,Venstre,0
+0,0,20,3,1,0,0,42,Venstre,0
+0,0,10,1,1,0,1,53,Socialdemokratiet,1
+0,0,10,1,1,0,0,66,Enhedslisten,1
+1,1,5,2,0,0,1,73,Dansk Folkeparti,0
+1,1,25,20,1,1,1,56,Dansk Folkeparti,0
+1,0,20,3,1,0,1,29,NA,NA
+1,1,20,2,1,0,0,39,NA,NA
+1,0,28,15,1,1,0,49,Socialdemokratiet,1
+0,0,6,3,0,0,1,54,Venstre,0
+0,1,25,1,1,0,1,28,Nye Borgerlige,0
+1,0,15,5,1,0,0,29,Venstre,0
+0,0,6,3,0,0,0,64,Socialdemokratiet,1
+0,0,5,2,0,0,1,26,Venstre,0
+0,1,10,6,1,0,1,47,Radikale,1
+1,0,24,0,1,0,0,23,SF,1
+0,0,4,0,0,0,1,64,Enhedslisten,1
+1,1,15,5,1,0,0,61,Socialdemokratiet,1
+0,0,5,10,0,1,0,22,Liberal Alliance,0
+1,1,15,1,1,0,1,36,Nye Borgerlige,0
+1,0,20,2,1,0,1,33,Socialdemokratiet,1
+1,0,1,25,0,1,1,66,Dansk Folkeparti,0
+1,1,20,1,1,0,0,26,NA,NA
+0,1,30,5,1,0,0,49,Nye Borgerlige,0
+0,0,5,5,0,0,0,68,Nye Borgerlige,0
+0,0,6,6,0,0,1,55,Venstre,0
+1,1,25,1,1,0,1,71,Socialdemokratiet,1
